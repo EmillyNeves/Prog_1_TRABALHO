@@ -1,0 +1,8 @@
+Movimento 3 (d) pegou comida
+Movimento 6 (a) pegou comida
+Movimento 12 (w) pegou comida
+Movimento 16 (a) pegou comida
+Movimento 20 (d) pegou comida
+Movimento 23 (d) pegou comida
+Movimento 26 (s) pegou comida
+Movimento 35 (w) pegou comida

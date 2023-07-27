@@ -1,0 +1,15 @@
+Movimento 4 (d) pegou comida
+Movimento 9 (w) pegou comida
+Movimento 15 (d) pegou comida
+Movimento 19 (d) pegou comida
+Movimento 21 (d) pegou comida
+Movimento 22 (d) pegou comida
+Movimento 31 (s) colidiu na parede
+Movimento 44 (d) pegou comida
+Movimento 45 (w) pegou comida
+Movimento 47 (d) pegou comida
+Movimento 58 (w) pegou comida
+Movimento 62 (a) pegou comida
+Movimento 68 (s) pegou comida
+Movimento 70 (s) pegou comida
+Movimento 72 (a) fim de jogo por encostar em um fantasma

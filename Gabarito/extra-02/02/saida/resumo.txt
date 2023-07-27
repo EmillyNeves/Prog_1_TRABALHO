@@ -1,0 +1,11 @@
+Movimento 4 (a) pegou comida
+Movimento 6 (s) pegou comida
+Movimento 8 (a) pegou comida
+Movimento 12 (s) pegou comida
+Movimento 13 (d) pegou comida
+Movimento 17 (s) pegou comida
+Movimento 18 (s) pegou comida
+Movimento 25 (d) pegou comida
+Movimento 29 (s) pegou comida
+Movimento 32 (s) pegou comida
+Movimento 40 (w) fim de jogo por encostar em um fantasma

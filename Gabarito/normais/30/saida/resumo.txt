@@ -1,0 +1,68 @@
+Movimento 3 (d) pegou comida
+Movimento 6 (s) pegou comida
+Movimento 7 (a) pegou comida
+Movimento 8 (a) pegou comida
+Movimento 9 (a) pegou comida
+Movimento 11 (a) pegou comida
+Movimento 17 (w) pegou comida
+Movimento 18 (w) pegou comida
+Movimento 20 (w) pegou comida
+Movimento 23 (a) pegou comida
+Movimento 24 (a) pegou comida
+Movimento 26 (s) pegou comida
+Movimento 29 (s) pegou comida
+Movimento 30 (s) pegou comida
+Movimento 31 (d) pegou comida
+Movimento 36 (d) pegou comida
+Movimento 46 (w) pegou comida
+Movimento 51 (w) pegou comida
+Movimento 52 (d) pegou comida
+Movimento 55 (d) pegou comida
+Movimento 56 (d) colidiu na parede
+Movimento 57 (d) colidiu na parede
+Movimento 58 (d) colidiu na parede
+Movimento 60 (s) pegou comida
+Movimento 61 (s) pegou comida
+Movimento 64 (s) pegou comida
+Movimento 65 (s) pegou comida
+Movimento 66 (a) pegou comida
+Movimento 72 (d) pegou comida
+Movimento 74 (d) pegou comida
+Movimento 76 (d) pegou comida
+Movimento 78 (d) pegou comida
+Movimento 79 (w) pegou comida
+Movimento 80 (d) pegou comida
+Movimento 86 (a) pegou comida
+Movimento 88 (s) pegou comida
+Movimento 90 (s) pegou comida
+Movimento 93 (a) pegou comida
+Movimento 94 (w) pegou comida
+Movimento 98 (w) pegou comida
+Movimento 99 (d) pegou comida
+Movimento 105 (w) colidiu na parede
+Movimento 106 (w) colidiu na parede
+Movimento 109 (d) colidiu na parede
+Movimento 112 (d) pegou comida
+Movimento 114 (w) pegou comida
+Movimento 118 (a) pegou comida
+Movimento 122 (s) pegou comida
+Movimento 125 (w) pegou comida
+Movimento 127 (s) colidiu na parede
+Movimento 132 (d) pegou comida
+Movimento 146 (d) pegou comida
+Movimento 149 (d) pegou comida
+Movimento 152 (d) pegou comida
+Movimento 157 (a) pegou comida
+Movimento 167 (d) pegou comida
+Movimento 169 (d) pegou comida
+Movimento 173 (a) pegou comida
+Movimento 176 (d) pegou comida
+Movimento 191 (s) pegou comida
+Movimento 198 (a) colidiu na parede
+Movimento 199 (a) colidiu na parede
+Movimento 204 (d) pegou comida
+Movimento 206 (w) pegou comida
+Movimento 211 (a) colidiu na parede
+Movimento 212 (a) colidiu na parede
+Movimento 213 (a) colidiu na parede
+Movimento 230 (d) pegou comida

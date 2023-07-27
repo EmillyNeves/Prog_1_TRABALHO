@@ -1,0 +1,9 @@
+Movimento 4 (w) pegou comida
+Movimento 9 (w) colidiu na parede
+Movimento 11 (w) pegou comida
+Movimento 13 (w) pegou comida
+Movimento 15 (w) pegou comida
+Movimento 17 (w) pegou comida
+Movimento 21 (a) pegou comida
+Movimento 22 (a) pegou comida
+Movimento 25 (a) fim de jogo por encostar em um fantasma

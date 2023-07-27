@@ -1,0 +1,184 @@
+Estado do jogo apos o movimento 'd':
+##########
+#   *    #
+# ##  ## #
+#  ## ## #
+#  B    *#
+# #   #  #
+# ## ##  #
+#  # #   #
+#      > #
+##########
+Pontuacao: 0
+
+Estado do jogo apos o movimento 'd':
+##########
+#   *    #
+# ##  ## #
+#  ## ## #
+# B     *#
+# #   #  #
+# ## ##  #
+#  # #   #
+#       >#
+##########
+Pontuacao: 0
+
+Estado do jogo apos o movimento 'w':
+##########
+#   *    #
+# ##  ## #
+#  ## ## #
+#B      *#
+# #   #  #
+# ## ##  #
+#  # #  >#
+#        #
+##########
+Pontuacao: 0
+
+Estado do jogo apos o movimento 'w':
+##########
+#   *    #
+# ##  ## #
+#  ## ## #
+# B     *#
+# #   #  #
+# ## ## >#
+#  # #   #
+#        #
+##########
+Pontuacao: 0
+
+Estado do jogo apos o movimento 'w':
+##########
+#   *    #
+# ##  ## #
+#  ## ## #
+#  B    *#
+# #   # >#
+# ## ##  #
+#  # #   #
+#        #
+##########
+Pontuacao: 0
+
+Estado do jogo apos o movimento 'w':
+##########
+#   *    #
+# ##  ## #
+#  ## ## #
+#   B   >#
+# #   #  #
+# ## ##  #
+#  # #   #
+#        #
+##########
+Pontuacao: 1
+
+Estado do jogo apos o movimento 'w':
+##########
+#   *    #
+# ##  ## #
+#  ## ##>#
+#    B   #
+# #   #  #
+# ## ##  #
+#  # #   #
+#        #
+##########
+Pontuacao: 1
+
+Estado do jogo apos o movimento 'w':
+##########
+#   *    #
+# ##  ##>#
+#  ## ## #
+#     B  #
+# #   #  #
+# ## ##  #
+#  # #   #
+#        #
+##########
+Pontuacao: 1
+
+Estado do jogo apos o movimento 'w':
+##########
+#   *   >#
+# ##  ## #
+#  ## ## #
+#      B #
+# #   #  #
+# ## ##  #
+#  # #   #
+#        #
+##########
+Pontuacao: 1
+
+Estado do jogo apos o movimento 'w':
+##########
+#   *   >#
+# ##  ## #
+#  ## ## #
+#       B#
+# #   #  #
+# ## ##  #
+#  # #   #
+#        #
+##########
+Pontuacao: 1
+
+Estado do jogo apos o movimento 'a':
+##########
+#   *  > #
+# ##  ## #
+#  ## ## #
+#      B #
+# #   #  #
+# ## ##  #
+#  # #   #
+#        #
+##########
+Pontuacao: 1
+
+Estado do jogo apos o movimento 'a':
+##########
+#   * >  #
+# ##  ## #
+#  ## ## #
+#     B  #
+# #   #  #
+# ## ##  #
+#  # #   #
+#        #
+##########
+Pontuacao: 1
+
+Estado do jogo apos o movimento 'a':
+##########
+#   *>   #
+# ##  ## #
+#  ## ## #
+#    B   #
+# #   #  #
+# ## ##  #
+#  # #   #
+#        #
+##########
+Pontuacao: 1
+
+Estado do jogo apos o movimento 'a':
+##########
+#   >    #
+# ##  ## #
+#  ## ## #
+#   B    #
+# #   #  #
+# ## ##  #
+#  # #   #
+#        #
+##########
+Pontuacao: 2
+
+Voce venceu!
+Pontuacao final: 2

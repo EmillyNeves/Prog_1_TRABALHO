@@ -1,0 +1,3 @@
+Movimento 6 (w) pegou comida
+Movimento 10 (w) colidiu na parede
+Movimento 14 (a) pegou comida
